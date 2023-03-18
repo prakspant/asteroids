@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(26,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(26,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(32,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(52,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(52,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(53,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(68,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(69,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(106,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(107,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(110,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(111,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(134,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(148,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(150,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(154,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(165,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(180,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(180,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(198,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(198,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(205,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(205,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(205,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(213,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(213,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\main.cpp(233,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLDebug.vcxproj -> C:\Users\Lenovo\Desktop\Irate_Rabbit\asteroidsWorking\x64\Debug\SFMLDebug.exe
